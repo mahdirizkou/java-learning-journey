@@ -6,7 +6,7 @@ Java is a **high-level, object-oriented programming language** used to build all
 
 ### Architecture du langage JAVA: 
 
-
+```text
 +------------------------------------+
 |   source code (file.java)          |
 +------------------------------------+
@@ -21,9 +21,9 @@ Java is a **high-level, object-oriented programming language** used to build all
 +------------------------------------+
 translate bytecode into host machine code
 
-
+```
 #### deeper Architecture: 
-
+```text
 +------------------------------------+
 |   Java Application / Source Code   |
 +------------------------------------+
@@ -45,7 +45,7 @@ translate bytecode into host machine code
 +------------------------------------+
 |     Operating System + Hardware    |
 +------------------------------------+
-
+```
 ### Basic concepts: 
 
 - #### JDK (Java Development Kit):
