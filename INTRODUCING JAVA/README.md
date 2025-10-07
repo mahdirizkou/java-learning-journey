@@ -59,27 +59,27 @@ It includes:
 - #### JRE (Java Runtime Environment):
 
 The JRE provides everything you need to run Java programs:
-- JVM (Java Virtual Machine)
-- Core Libraries (e.g., java.lang, java.util)
-- Runtime files.
+    - JVM (Java Virtual Machine)
+    - Core Libraries (e.g., java.lang, java.util)
+    - Runtime files.
 
 - #### JVM (Java Virtual Machine):
 
 It executes Java bytecode and makes Java platform-independent.
 JVM main components:
 
-1. Class Loader → Loads .class files into memory.
+    1. Class Loader → Loads .class files into memory.
 
-2. Bytecode Verifier → Ensures no unsafe code (security).
+    2. Bytecode Verifier → Ensures no unsafe code (security).
 
-3. Interpreter / JIT Compiler → Converts bytecode into native machine code.
+    3. Interpreter / JIT Compiler → Converts bytecode into native machine code.
 
-4. Runtime Data Areas → Memory areas like:
+    4. Runtime Data Areas → Memory areas like:
 
-- Heap (for objects)
+         - Heap (for objects)
 
-- Stack (for methods)
+         - Stack (for methods)
 
-- Method Area (for class info)
+         - Method Area (for class info)
 
-- PC Register and Native Method Stack
+         - PC Register and Native Method Stack
