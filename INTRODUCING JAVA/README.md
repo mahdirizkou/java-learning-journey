@@ -20,7 +20,6 @@ Java is a **high-level, object-oriented programming language** used to build all
 |    jvm (java virtual machine)      |
 +------------------------------------+
 translate bytecode into host machine code
-
 ```
 #### deeper Architecture: 
 ```text
