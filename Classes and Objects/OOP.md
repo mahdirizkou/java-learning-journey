@@ -29,7 +29,7 @@ An object is a real instance of a class.
 If a class is a blueprint, then an object is the actual thing built from that blueprint.
 It has attributes (data) and behaviors (methods) defined by its class.
 
-#### Example for class :
+#### Example for Object :
 ```text
 public class Main {
     public static void main(String[] args) {
